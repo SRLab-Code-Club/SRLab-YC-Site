@@ -3,7 +3,7 @@ title: "PUBLICATION LIST"
 ---  
 ## Peer-reviewed papers (SCI)
   
-### 2016-2022:
+### 2021-2023:
   
 1. [:material-file-link-outline:](http://gofile.me/6TNSM/NX7wBYTpt) Dinh, T.-H., **Chan\*, Y.-C.**, Chen, C.-T., 2022, Extensional Tectonics and Basement Uplift of the Fansipan and Tule Mountain Ranges in Northern Vietnam, Frontiers in Earth Science, \[\*corresponding author\]
 2. [:material-file-link-outline:](https://doi.org/10.1016/j.enggeo.2022.106555) Nguyen, M., Lin\*, Y.N., Tran, Q.C., Ni, C.-F., **Chan, Y.-C.**, Tseng, K.-H., Chang, C.-P., 2022, Assessment of long-term ground subsidence and groundwater depletion in Hanoi, Vietnam. Engineering Geology, 299, 106555
@@ -11,6 +11,9 @@ title: "PUBLICATION LIST"
 4. [:material-file-link-outline:](https://doi.org/10.3390/rs13194006) Lu, C.-Y., **Chan\*, Y.-C.**, Hu, J.-C., Tseng, C.-H., Liu, C.-H., Chang, C.-H., 2021, "Seasonal surface fluctuation of a slow-moving landslide detected by multitemporal interferometry (MTI) on the Huafan University campus, northern Taiwan", Remote Sensing, 2021, 13, 4006. https://doi.org/10.3390/rs13194006 [*corresponding author]
 5. [:material-file-link-outline:](https://doi.org/10.1016/j.enggeo.2021.106020) Tseng, C.-H., **Chan, Y.-C.**, Jeng, C.-J., Rau, R.-J., Hsieh, Y.-C., 2021, "Deformation of landslide revealed by long-term surficial monitoring: A case study of slow movement of a dip slope in northern Taiwan", Engineering Geology, 284, 10602.
 6. [:material-file-link-outline:](https://doi.org/10.1007/s00531-020-01931-8) Dinh, T.-H., **Chan\*, Y.-C.**, Chang, C.-P., Chen, C.-T., Hsu, Y.-C., 2021, "Deformation patterns and potential active movements of the Fansipan mountain range, northern Vietnam", International Journal of Earth Sciences, https://doi.org/10.1007/s00531-020-01931-8. [*corresponding author]
+
+### 2016-2020:
+  
 7. Lu, C.-Y., Hu, J.-C., **Chan\*, Y.-C.**, Su, Y.-F., Chang, C.-H., 2020, "The relationship between surface displacement and groundwater level change and its hydrogeological implications in an alluvial fan: case study of the Choshui river, Taiwan", Remote Sensing, 2020, 12, 3315; doi:10.3390/rs12203315.[*corresponding author]
 8. Chen, C.-T., **Chan, Y.-C.**, Beyssac, O., Lu, C.-Y., Chen, Y.-G., Malavieille, J., Kidder, S. B., Sun, H.-C., 2019, "Thermal history of the northern Taiwanese slate belt and implications for wedge growth during the Neogene arc-continent collision", Tectonics, 10.1029/2019TC005604.
 9. Chang, K.-J., **Chan, Y.-C.**, Chen, R.-F., Hsieh, Y.-C., 2018, Geoomorphological evolution of landslides near an active normal fault in northern Taiwan, as revealed by lidar and unmanned aircraft system data. Natural Hazards and Earth System Sciences, 18(3), 709-727.
