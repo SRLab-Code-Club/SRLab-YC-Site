@@ -20,7 +20,7 @@ title: "PUBLICATION LIST"
 13. Yeh, C.-H., Lin, M.-L., **Chan\*, Y.-C.**, Chang, K.-J., Hsieh, Y.-C., 2017, Dip-slope mapping of sedimentary terrain using polygon auto-tracing and airborne LiDAR topographic data. Engineering Geology, 222, 236-249. [*corresponding author]
 14. Chen, S. K., Wu, Y.-M., Hsu, Y.-J., **Chan, Y.-C.**, 2017, Current crustal deformation of the Taiwan orogen reassessed by cGPS strain-rate estimation and focal mechanism stress inversion, Geophysical Journal International, doi: 10.1093/gji/ggx165.
 15. Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., 2016, Digital Elevation Model Differencing and Error Estimation from Multiple Sources: A Case Study from the Meiyuan Shan Landslide in Taiwan. Remote Sensing, 8, 199:1-20. [*corresponding author]
-16. Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., Chen, Y.-Z., Chen, R.-F., Chen, M.-M., 2016, Direct Measurements of Bedrock Incision Rates on the Surface of a Large Dip-slope Landslide by Multi-Period Airborne Laser Scanning DEMs. Remote Sensing, 8(11), 900.[*corresponding author]
+16. [:material-file-link-outline:](http://gofile.me/6TNSM/z7dczosuh) Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., Chen, Y.-Z., Chen, R.-F., Chen, M.-M., 2016, Direct Measurements of Bedrock Incision Rates on the Surface of a Large Dip-slope Landslide by Multi-Period Airborne Laser Scanning DEMs. Remote Sensing, 8(11), 900.[*corresponding author]
 17. Chen, C.-T., **Chan, Y.-C.**, Lo, C.-H., Lu, C.-Y., 2016, Growth of mica porphyroblasts under low-grade metamorphism -- A Taiwanese case using in-situ 40Ar/39Ar laser microprobe dating. Journal of Structural Geology, 92, 1-11.
   
 ### 2009-2015:
