@@ -14,17 +14,17 @@ title: "PUBLICATION LIST"
 
 ### 2016-2020:
   
-7. Lu, C.-Y., Hu, J.-C., **Chan\*, Y.-C.**, Su, Y.-F., Chang, C.-H., 2020, "The relationship between surface displacement and groundwater level change and its hydrogeological implications in an alluvial fan: case study of the Choshui river, Taiwan", Remote Sensing, 2020, 12, 3315; doi:10.3390/rs12203315.[*corresponding author]
-8. Chen, C.-T., **Chan, Y.-C.**, Beyssac, O., Lu, C.-Y., Chen, Y.-G., Malavieille, J., Kidder, S. B., Sun, H.-C., 2019, "Thermal history of the northern Taiwanese slate belt and implications for wedge growth during the Neogene arc-continent collision", Tectonics, 10.1029/2019TC005604.
-9. Chang, K.-J., **Chan, Y.-C.**, Chen, R.-F., Hsieh, Y.-C., 2018, Geoomorphological evolution of landslides near an active normal fault in northern Taiwan, as revealed by lidar and unmanned aircraft system data. Natural Hazards and Earth System Sciences, 18(3), 709-727.
-10. Chen, C.-T., **Chan, Y.-C.**, Lo, C.-H., Malavieille, J., Lu, C.-Y., Tang, J.-T., Lee, Y.-H., 2018, Basal accretion, a major mechanism for mountain building in Taiwan revealed in rock thermal history. Journal of Asian Earth Sciences, 152, 80-90.
-11. Chen, S. K., Wu, Y.-M., **Chan, Y.-C.**, 2018, Episodic slow slip events and overlying plate seismicity at the southernmost Ryukyu Trench, Geophys. Res. Lett., 45, 10,369-10,377, doi: 10.1029/2018GL079740.
-12. Tseng, C.-H., **Chan, Y.-C.**, Jeng, C.-J., Hsieh, Y.-C., 2017. Slip monitoring of a dip-slope and runout simulation by the discrete element method: a case study at the Huafan University campus in northern Taiwan. Natural Hazards, doi: 10.1007/s11069-017-3016-y.
-13. Yeh, C.-H., Lin, M.-L., **Chan\*, Y.-C.**, Chang, K.-J., Hsieh, Y.-C., 2017, Dip-slope mapping of sedimentary terrain using polygon auto-tracing and airborne LiDAR topographic data. Engineering Geology, 222, 236-249. [*corresponding author]
-14. Chen, S. K., Wu, Y.-M., Hsu, Y.-J., **Chan, Y.-C.**, 2017, Current crustal deformation of the Taiwan orogen reassessed by cGPS strain-rate estimation and focal mechanism stress inversion, Geophysical Journal International, doi: 10.1093/gji/ggx165.
-15. Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., 2016, Digital Elevation Model Differencing and Error Estimation from Multiple Sources: A Case Study from the Meiyuan Shan Landslide in Taiwan. Remote Sensing, 8, 199:1-20. [*corresponding author]
+7. [:material-file-link-outline:](http://dx.doi.org/10.3390/rs12203315) Lu, C.-Y., Hu, J.-C., **Chan\*, Y.-C.**, Su, Y.-F., Chang, C.-H., 2020, "The relationship between surface displacement and groundwater level change and its hydrogeological implications in an alluvial fan: case study of the Choshui river, Taiwan", Remote Sensing, 2020, 12, 3315; doi:10.3390/rs12203315.[*corresponding author]
+8. [:material-file-link-outline:](https://doi.org/10.1029/2019TC005604) Chen, C.-T., **Chan, Y.-C.**, Beyssac, O., Lu, C.-Y., Chen, Y.-G., Malavieille, J., Kidder, S. B., Sun, H.-C., 2019, "Thermal history of the northern Taiwanese slate belt and implications for wedge growth during the Neogene arc-continent collision", Tectonics, 10.1029/2019TC005604.
+9. [:material-file-link-outline:](https://doi.org/10.5194/nhess-18-709-2018) Chang, K.-J., **Chan, Y.-C.**, Chen, R.-F., Hsieh, Y.-C., 2018, Geoomorphological evolution of landslides near an active normal fault in northern Taiwan, as revealed by lidar and unmanned aircraft system data. Natural Hazards and Earth System Sciences, 18(3), 709-727.
+10. [:material-file-link-outline:](https://doi.org/10.1016/j.jseaes.2017.11.030Chen), C.-T., **Chan, Y.-C.**, Lo, C.-H., Malavieille, J., Lu, C.-Y., Tang, J.-T., Lee, Y.-H., 2018, Basal accretion, a major mechanism for mountain building in Taiwan revealed in rock thermal history. Journal of Asian Earth Sciences, 152, 80-90.
+11. [:material-file-link-outline:](https://doi.org/10.1029/2018GL079740) Chen, S. K., Wu, Y.-M., **Chan, Y.-C.**, 2018, Episodic slow slip events and overlying plate seismicity at the southernmost Ryukyu Trench, Geophys. Res. Lett., 45, 10,369-10,377, doi: 10.1029/2018GL079740.
+12. [:material-file-link-outline:](https://doi.org/10.1007/s11069-017-3016-y) Tseng, C.-H., **Chan, Y.-C.**, Jeng, C.-J., Hsieh, Y.-C., 2017. Slip monitoring of a dip-slope and runout simulation by the discrete element method: a case study at the Huafan University campus in northern Taiwan. Natural Hazards, doi: 10.1007/s11069-017-3016-y.
+13. [:material-file-link-outline:](https://doi.org/10.1016/j.enggeo.2017.04.009) Yeh, C.-H., Lin, M.-L., **Chan\*, Y.-C.**, Chang, K.-J., Hsieh, Y.-C., 2017, Dip-slope mapping of sedimentary terrain using polygon auto-tracing and airborne LiDAR topographic data. Engineering Geology, 222, 236-249. [*corresponding author]
+14. [:material-file-link-outline:](https://doi.org/10.1093/gji/ggx165) Chen, S. K., Wu, Y.-M., Hsu, Y.-J., **Chan, Y.-C.**, 2017, Current crustal deformation of the Taiwan orogen reassessed by cGPS strain-rate estimation and focal mechanism stress inversion, Geophysical Journal International, doi: 10.1093/gji/ggx165.
+15. [:material-file-link-outline:](https://doi.org/10.3390/rs8030199) Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., 2016, Digital Elevation Model Differencing and Error Estimation from Multiple Sources: A Case Study from the Meiyuan Shan Landslide in Taiwan. Remote Sensing, 8, 199:1-20. [*corresponding author]
 16. [:material-file-link-outline:](http://gofile.me/6TNSM/z7dczosuh) Hsieh, Y.-C., **Chan\*, Y.-C.**, Hu, J.-C., Chen, Y.-Z., Chen, R.-F., Chen, M.-M., 2016, Direct Measurements of Bedrock Incision Rates on the Surface of a Large Dip-slope Landslide by Multi-Period Airborne Laser Scanning DEMs. Remote Sensing, 8(11), 900.[*corresponding author]
-17. Chen, C.-T., **Chan, Y.-C.**, Lo, C.-H., Lu, C.-Y., 2016, Growth of mica porphyroblasts under low-grade metamorphism -- A Taiwanese case using in-situ 40Ar/39Ar laser microprobe dating. Journal of Structural Geology, 92, 1-11.
+17. [:material-file-link-outline:](https://doi.org/10.1016/j.jsg.2016.09.005) Chen, C.-T., **Chan, Y.-C.**, Lo, C.-H., Lu, C.-Y., 2016, Growth of mica porphyroblasts under low-grade metamorphism -- A Taiwanese case using in-situ 40Ar/39Ar laser microprobe dating. Journal of Structural Geology, 92, 1-11.
   
 ### 2009-2015:
   
@@ -74,7 +74,7 @@ title: "PUBLICATION LIST"
 1. Crespi, J. M., **Chan, Y.-C.** and Swaim, M. S. 1996. Synorogenic extension and exhumation of the Taiwan hinterland. Geology, vol. 3, no. 24, pp. 247-250. (SCI)
 
 ### Ph.D. Dissertation: 
-**Chan, Y.-C.**, 1998. Kinematic and Geochronologic Constraints on the Structural Development of the Northern Taconic Allochthon in western New England, U.S.A., University of Connecticut, U.S.A.
+[:material-link-box-outline:](https://digitalcommons.lib.uconn.edu/dissertations/AAI9909103/) **Chan, Y.-C.**, 1998. Kinematic and Geochronologic Constraints on the Structural Development of the Northern Taconic Allochthon in western New England, U.S.A., University of Connecticut, U.S.A.
 
 ## Other selected publications and reports
 
