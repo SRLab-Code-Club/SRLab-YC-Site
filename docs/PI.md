@@ -2,20 +2,20 @@
 title:  "Principal Investigator"
 ---
 
-**Yu-Chang Chan, Ph.D.,**  
+**Yu-Chang Chan, Ph.D.**  
 Research Fellow/ Deputy Director   
 
 ## [Research Topics](Topics.md)  
-* UAV and LiDAR Data Processing and Applications
-* Geologic Structures & Mountain Building Processes
-* Landslide Characterization, Monitoring and Modeling
-* Remote Sensing and GIS Applications in Geology and Natural Hazards  
+UAV and LiDAR Data Processing and Applications  
+Geologic Structures & Mountain Building Processes  
+Landslide Characterization, Monitoring and Modeling  
+Remote Sensing and GIS Applications in Geology and Natural Hazards    
   
   
-## Education
-* Ph.D., Geology & Geophysics, University of Connecticut, U.S.A., 1998
-* M.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1990
-* B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988
+## Education  
+Ph.D., Geology & Geophysics, University of Connecticut, U.S.A., 1998  
+M.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1990  
+B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988  
   
 ## Professional Experience
 * Reseach Fellow/ Deputy Director, IES, Academia Sinica, 2018/1 -- present
@@ -58,10 +58,10 @@ Research Fellow/ Deputy Director
 * Invited Speaker, AOGS Annual Meeting, Singapore, 2009
 * A Highlight of Significant Research Achievements of Academia Sinica, 2008
 * Invited Speaker at AGU on Airborne Laser Swath Mapping in Taiwan, 2005
-  
-## Professional Membership
-* American Geophysical Union (AGU)
-* European Geosciences Union (EGU)
-* Geological Society, R.O.C. (Taiwan)
-* Geophysical Society, R.O.C. (Taiwan)
-* Chinese Geoscience Union, R.O.C. (Taiwan)
+    
+## Professional Membership  
+American Geophysical Union (AGU)  
+European Geosciences Union (EGU)  
+Geological Society, R.O.C. (Taiwan)  
+Geophysical Society, R.O.C. (Taiwan)  
+Chinese Geoscience Union, R.O.C. (Taiwan)  
