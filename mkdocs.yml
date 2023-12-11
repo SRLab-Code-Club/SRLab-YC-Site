@@ -41,14 +41,14 @@ copyright: Copyright &copy; 2002 - 2023 Structural Geology and Remote Sensing La
 # Blog for abstracts
 plugins:
   - blog:
-        blog_dir: outreach
-        blog_toc: true
-        post_dir: "{blog}/articles"
-        post_date_format: medium
-        post_url_date_format: yyyy
-        categories_allowed:
-            - outreach
-            - publication
+      blog_dir: outreach
+      blog_toc: true
+      post_dir: "{blog}/articles"
+      post_date_format: medium
+      post_url_date_format: yyyy
+      categories_allowed:
+        - outreach
+        - publication
 # ICON and emoji
 markdown_extensions:
   - attr_list
@@ -68,4 +68,4 @@ nav:
     - Research Topics: Topics.md
     - Group Members: GM.md
     - Publications : PubList.md
-    # - Outreach: outreach/index.md
+    - Outreach: outreach/index.md
