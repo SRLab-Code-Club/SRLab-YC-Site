@@ -7,3 +7,11 @@ authors:
     name: Cheng-Wei Sun        # Author name
     description: "Ph.D student, NTU" # Author description
     avatar: https://avatars.githubusercontent.com/u/13643055?v=4         # Author avatar
+  CYLu:
+    name: Chiao-Yin Lu        # Author name
+    description: "Ph.D., NTU" # Author description
+    avatar: ../assets/avatar/account-circle-outline-shadow.png        # Author avatar
+  HPChan:
+    name: Hai-Po Chan        # Author name
+    description: "Postdoctoral Fellow, IESAS" # Author description
+    avatar: ../assets/avatar/account-circle-outline-shadow.png        # Author avatar
