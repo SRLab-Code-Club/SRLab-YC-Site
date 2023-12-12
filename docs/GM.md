@@ -6,8 +6,8 @@ title: "Group Members"
 ### Postdoc   
 |Name|Education|  
 |----|---|  
-|Abhishek Lakhote|Ph.D., Department of Earth and Environmental Science, KSKV Kachchh University, India|  
-|Hai-Po Chan|Ph.D., Earth Sciences, National Central University|
+|[Abhishek Lakhote](https://www.earth.sinica.edu.tw/member/detail/496)|Ph.D., Department of Earth and Environmental Science, KSKV Kachchh University, India|  
+|[Hai-Po Chan](https://www.earth.sinica.edu.tw/member/detail/478)|Ph.D., Earth Sciences, National Central University|
     
 ### Graduate Students  
 |Name|Degrees|School|  
@@ -41,12 +41,12 @@ title: "Group Members"
 |Sean Kuanshiang Chen|Ph.D.|2018|Geosciences, National Taiwan University|[Crustal deformation of the Taiwan orogen and the Ryukyu subduction zone revealed by geodetic and seismological observations](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2401201820104500&PublishTypeID=P003)|
 |Chih-Hsiang Yeh|Ph.D.|2017|Civil Engineering, National Taiwan University|[Sedimentary Strata Mapping and Dip Slope Auto-tracing with LiDAR DEM Using Self-developed Geoprocessing Toolsets](https://doi.org/10.6342/NTU201701816)|
 |Yu-Chung Hsieh|Ph.D.|2016|Geosciences, National Taiwan University|[Evaluation of Landslide Area and Fluvial Changes using Multi-period Digital Elevation Models](https://doi.org/10.6342/NTU201603713)|
-|Chih-Tung Chen|Ph.D.|2012|Geosciences, National Taiwan University|[Earthquake geology of the active Shanchiao Fault in the Taipei Metropolis, Taiwan](https://doi.org/10.6342/NTU.2012.00578)|
+|[Chih-Tung Chen](https://chihtung.wixsite.com/website)|Ph.D.|2012|Geosciences, National Taiwan University|[Earthquake geology of the active Shanchiao Fault in the Taipei Metropolis, Taiwan](https://doi.org/10.6342/NTU.2012.00578)|
 |Chiao-Yin Lu|M.Sc.|2012|Geosciences, National Taiwan University|[Assessment of movement and deposition for a potential landslide in Lushan area, central Taiwan by 3D discrete element simulation](https://doi.org/10.6342/NTU.2012.01561)|
 |Sean Kuanshiang Chen|M.Sc.|2011|Geosciences, National Taiwan University|[Cyclic Upper Lithospheric Collision and Relaxation at the Junction of Collision to Subduction in Northern Hualien, Taiwan](https://doi.org/10.6342/NTU.2011.02635)|
 |Chung Huang|M.Sc.|2007|Geosciences, National Taiwan University|[The Fault Geometry and Co-seismic Surface Deformation Around the Northern Taichung Basin](https://doi.org/10.6342/NTU.2007.01974)|
 |Chiu-Ya Wu|M.Sc.|2007|Geosciences, National Taiwan University|[The structural and geomorphic characteristics before and after the Chiufenerhshan landslide and possible mechanisms of the slope failure](https://doi.org/10.6342/NTU.2007.03145)|
-|Chia-Han Tseng|M.Sc.|2006|Geosciences, National Taiwan University|[Non-Catastrophic Landslides Induced by the Mw 7.6 Chi-Chi Earthquake in Central Taiwan Revealed by the PIV Analysis](https://doi.org/10.6342/NTU.2006.02590)|
+|[Chia-Han Tseng](https://sge.pccu.edu.tw/p/406-1130-117968,r3017.php?Lang=zh-tw)|M.Sc.|2006|Geosciences, National Taiwan University|[Non-Catastrophic Landslides Induced by the Mw 7.6 Chi-Chi Earthquake in Central Taiwan Revealed by the PIV Analysis](https://doi.org/10.6342/NTU.2006.02590)|
   
 ### Undergraduate Summer Research Program Students
   
@@ -71,10 +71,10 @@ title: "Group Members"
   
 ### Former Postdoc    
     
-|Name|Education|  
-|---|---|  
-|Chia-Han Tseng|Ph.D., Freie Universitat Berlin, Germany|
-|Kuang-Yin Lai|Ph.D., National Taiwan University|
+|Name|Education|Current Position|  
+|----|---------|----------------|  
+|Chia-Han Tseng|Ph.D., Freie Universitat Berlin, Germany|Chinese Culture University|  
+|Kuang-Yin Lai|Ph.D., National Taiwan University|CPC Corp.|  
   
 ### Former Research Assistants  
     
@@ -86,6 +86,6 @@ title: "Group Members"
 |Li-Chun Shen|M.Sc., National Taiwan Univerisity|Apple Inc.|  
 |Chih-Hsiang Yeh|M.Sc., National Chiao-Tung University|NCU| 
 |Hsin-Kuei Wang|M.Sc., Imperial College, London|Formosa Plastics| 
-|Yen-Chi Tseng|M.Sc., National Chung-Cheng University|CPC|   
+|Yen-Chi Tseng|M.Sc., National Chung-Cheng University|CPC Corp.|   
 |Chia-Cheng Liu|M.Sc., National Cheng-Kung University|Taipower|  
   
