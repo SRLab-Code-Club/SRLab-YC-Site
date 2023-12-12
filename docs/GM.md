@@ -5,9 +5,9 @@ title: "Group Members"
   
 ### Postdoc   
 |Name|Education|  
-|---|---|  
-|Abhishek Lakhote|Ph.D.(2022) Department of Earth and Environmental Science, KSKV Kachchh University, Bhuj, Kachchh, Gujarat, India|  
-|Hai-Po Chan|Ph.D.,(2017) Earth Sciences, National Central University|
+|----|---|  
+|Abhishek Lakhote|Ph.D., Department of Earth and Environmental Science, KSKV Kachchh University, India|  
+|Hai-Po Chan|Ph.D., Earth Sciences, National Central University|
     
 ### Graduate Students  
 |Name|Degrees|School|  
@@ -15,13 +15,15 @@ title: "Group Members"
 |Gopal Kumar|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
 |Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
 |Yu-Chen Hsu|M.Sc. Student|Earth Sciences, National Central University|
+|Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
+|Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
   
 ### Research Assistants
 |Name|Education|Field|
 |---|---|---|
 |Su-Ching Chou|M.Sc., National Taiwan University|Geology, Sedimentology, Basin Analysis|
 |Chiu-Yeu Lo|M.Sc., National Central University|Remote Sensing, Image Processing, Drone Pilot, LiDAR Post-processing|
-  
+   
 ## Former Members  
   
 ### Former Graduate Students  

@@ -1,4 +1,5 @@
 site_name: Structural Geology and Remote Sensing Laboratory, IES, Academia Sinica
+site_url: https://idv.sinica.edu.tw/yuchang/
 theme:
     # 設定 icon
     favicon: assets/mountain-sun-solid.svg
@@ -48,7 +49,8 @@ plugins:
       post_url_date_format: yyyy
       categories_allowed:
         - outreach
-        - publication
+        - Journal Articles
+        - Thesis
 # ICON and emoji
 markdown_extensions:
   - attr_list
