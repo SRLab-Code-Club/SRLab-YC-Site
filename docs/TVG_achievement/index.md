@@ -1,14 +1,14 @@
 ---
 title: "Insight into the Volcanic Sources and Potential Impact in Taipei Metropolis(II)"
 ---
-## 臺北都會災防科學任務(II)-洞察台北都會周遭火山來源及潛在衝擊(II)  
+**臺北都會災防科學任務(II)-洞察台北都會周遭火山來源及潛在衝擊(II)**  
 
 ### 主計畫概述  
 藉由本計畫之執行，預期將可以精進大臺北地區附近火山特性與地下地質構造結果，這些研究結果不僅是具有重要的科學價值，而且可以來辨識岩漿庫的形貌與火山主要熱液的位置，進而推估未來可能噴發的形式與地點，對未來的火山噴發威脅進行提前準備。  
 （擷取自國科會網站）
 
 
-## 子計畫一、大屯火山群七星山地區之火山地形與地表溫度：以無人機載光達及熱像儀進行高解析度之調查與偵測
+**子計畫一、大屯火山群七星山地區之火山地形與地表溫度：以無人機載光達及熱像儀進行高解析度之調查與偵測**
 
   
 ### 前言  
@@ -20,23 +20,20 @@ title: "Insight into the Volcanic Sources and Potential Impact in Taipei Metropo
 ***  
   
 #### 高解析度地形地質構造判識  
-請至頁面瞭解更多訊息：  
-[圖片](./TVG_StructureDelineation.md)  
-  
+[更多研究成果](./TVG_StructureDelineation.md)
 ***
   
 #### 無人機載光達地形測繪
-請至頁面瞭解更多訊息：  
-[圖片](./TVG_UAV_LiDAR.md)  
+[<img src="./SYK_PointCloud.jpg">](./TVG_StructureDelineation.md)  
+  
+[更多研究成果](./TVG_StructureDelineation.md)    
   
 ***
 
 #### 無人機載地表溫度調查
-請至頁面瞭解更多訊息：  
-[圖片](./TVG_UAV_Thermal.md)  
+[更多研究成果](./TVG_UAV_Thermal.md)
   
 ***
 
 #### 長期地表溫度與火山活動關連性
-請至頁面瞭解更多訊息：  
-[圖片](./TVG_LongtermObservation.md)  
+[更多研究成果](./TVG_LongtermObservation.md)  

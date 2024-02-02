@@ -39,7 +39,7 @@ theme:
         - navigation.top
     custom_dir: ./overrides
 # 頁尾
-copyright: Copyright &copy; 2002 - 2023 Structural Geology and Remote Sensing Laboratory, Institute of Earth Sciences, Academia Sinica
+copyright: Copyright &copy; 2002 - 2024 Structural Geology and Remote Sensing Laboratory, Institute of Earth Sciences, Academia Sinica
 
 # Blog for abstracts
 plugins:
@@ -75,7 +75,7 @@ nav:
     - Outreach: outreach/index.md
     - TVG Achievement: 
       - Introduction: TVG_achievement/index.md
-      - Structure Delineation: TVG_achievement/TVG_StructureDelineation.md
-      - UAV LiDAR Mapping: TVG_achievement/TVG_UAV_LiDAR.md
-      - UAV Thermal Mapping: TVG_achievement/TVG_UAV_Thermal.md
-      - Long-term Surface Temperature Monitoring: TVG_achievement/TVG_LongtermObservation.md
+      - "TVG: Structure Delineation": TVG_achievement/TVG_StructureDelineation.md
+      - "TVG: UAV LiDAR Mapping": TVG_achievement/TVG_UAV_LiDAR.md
+      - "TVG: UAV Thermal Mapping": TVG_achievement/TVG_UAV_Thermal.md
+      - "TVG: Long-term Surface Temperature Monitoring": TVG_achievement/TVG_LongtermObservation.md
