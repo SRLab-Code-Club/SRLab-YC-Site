@@ -74,7 +74,7 @@ nav:
     - Publications : PubList.md
     - Outreach: outreach/index.md
     - TVG Achievement: 
-      - Introduction: TVG_achievement/index.md
+      - "TVG Project: Overview": TVG_achievement/index.md
       - "TVG: Structure Delineation": TVG_achievement/TVG_StructureDelineation.md
       - "TVG: UAV LiDAR Mapping": TVG_achievement/TVG_UAV_LiDAR.md
       - "TVG: UAV Thermal Mapping": TVG_achievement/TVG_UAV_Thermal.md
