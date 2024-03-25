@@ -33,6 +33,10 @@ title: "Insight into the Volcanic Sources and Potential Impact in Taipei Metropo
 [<img src="./LTM_HPChan_Fig6.webp">](./TVG_LongtermObservation.md)  
 [更多研究成果](./TVG_LongtermObservation.md)  
   
+***  
+  
+## 資料下載  
+請至「[資料下載](./TVG_DataDownload.md)」專頁下載。  
   
 *** 
    
