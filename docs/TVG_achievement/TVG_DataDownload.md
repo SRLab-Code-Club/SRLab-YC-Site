@@ -32,30 +32,43 @@ title: "Download materials"
 ***  
   
 ###  熱影像資料   
-#### 成果地圖  
+#### 大油坑第一期成果地圖 
+   
+|種類|原始資料|已校正|
+|:---:|:---:|:---:|
+|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
+|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+   
+#### 大油坑第二期成果地圖   
+    
 |種類|原始資料|已校正|
 |:---:|:---:|:---:|
 |完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
 |強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
   
-#### 溫度原始檔  
-|地區|種類|說明|調查日期|檔案格式|下載連結| 
-|:---:|:---:|:---:|:---:|:---:|:---:|    
-|小油坑|原始溫度|第一次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|小油坑|校正溫度|第二次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|小油坑|原始溫度|第一次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|小油坑|校正溫度|第二次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|大油坑|原始溫度|第一次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|大油坑|校正溫度|第二次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|大油坑|原始溫度|第一次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
-|大油坑|校正溫度|第二次調查|yyyy.mm.dd|GeoTIFF|[:material-checkerboard:]()|
+#### 小油坑第一期成果地圖    
+   
+|種類|原始資料|已校正|
+|:---:|:---:|:---:|
+|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
+|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
   
+#### 小油坑第二期成果地圖    
+   
+|種類|原始資料|已校正|
+|:---:|:---:|:---:|
+|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
+|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+
+
 說明：  
 原始溫度係儀器輸出之原始溫度，使用發射率（emmisivity）「0.95」進行溫度推算。  
-校正溫度系以發射率「0.895」進行溫度校正後結果。  
+校正溫度系以發射率「0.895」進行溫度[校正](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law)後結果。  
+  
+原始檔（溫度之 GeoTiff 檔）請[聯絡計畫主持人並來函申請](mailto:yuchang@earth.sinica.edu.tw)。  
   
 ***  
 
 ### 點雲與地形資料
-本研究點雲及地形資料，請聯絡計畫主持人並來函申請。 
+本研究點雲及地形資料，請[聯絡計畫主持人並來函申請](mailto:yuchang@earth.sinica.edu.tw)。 
   
