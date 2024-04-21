@@ -16,7 +16,9 @@ title: "Group Members"
 |Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
 |Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
-  
+|Chia-Yu Chang|M.Sc. Student|Department of Geosciences, National Taiwan University| 
+
+
 ### Research Assistants
 |Name|Education|Field|
 |---|---|---|
