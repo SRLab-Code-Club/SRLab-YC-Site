@@ -14,14 +14,14 @@ title: "Group Members"
 |---|---|---|  
 |Gopal Kumar|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
 |Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
-|Yu-Chen Hsu|M.Sc. Student|Earth Sciences, National Central University|
 |Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
-  
+|Chia-Yu Chang|M.Sc. Student|Department of Geosciences, National Taiwan University| 
+
+
 ### Research Assistants
 |Name|Education|Field|
 |---|---|---|
-|Su-Ching Chou|M.Sc., National Taiwan University|Geology, Sedimentology, Basin Analysis|
 |Chiu-Yeu Lo|M.Sc., National Central University|Remote Sensing, Image Processing, Drone Pilot, LiDAR Post-processing|
    
 ## Former Members  
@@ -30,6 +30,7 @@ title: "Group Members"
   
 |Name|Degree|Year of Graduation|School|Thesis|  
 |---|---|---|---|---|  
+|Yu-Chen Hsu|M.Sc.|2024|Earth Sciences, National Central University|[Using LiDAR‑derived Digital Elevation Model for interpreting and analyzing regional geology and structure: the case of northern Coastal Range](http://ir.lib.ncu.edu.tw:88/thesis/view_etd.asp?URN=110622013)|  
 |Ting-Yu Pai|M.Sc.|2023|Geosciences, National Taiwan University|[Using airborne LiDAR DEM for interpreting geologic structures in the southern Coastal Range](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/87179)|
 |Chiao-Yin Lu|Ph.D.|2022|Geosciences, National Taiwan University|[Applying the multitemporal SAR interferometry(MTInSAR) technique for detecting long period and potential seasonal surface displacement](https://www.airitilibrary.com/Common/Click_DOI?DOI=10.6342/NTU202204061)|
 |Vu Anh Dao|M.Sc.|2022|Earth Sciences, National Central University|[Active faulting in the north Central Vietnam illuminated by geomorphic analysis](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi/ccd=GrW0wI/record?r1=1&h1=1)|
@@ -80,6 +81,7 @@ title: "Group Members"
     
 |Name|Education|Current Position|  
 |---|---|---|  
+|Su-Ching Chou|M.Sc., National Taiwan University| - |
 |Jin-Ting Jiang|M.Sc., National Taipei University of Technology|TSMC|
 |Sean Kuanshiang Chen|M.Sc., National Taiwan University|NTU|
 |Chung Huang|M.Sc., National Taiwan University|Taipower|
