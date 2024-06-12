@@ -34,18 +34,24 @@ title: "Download materials"
 ###  熱影像資料   
 #### 大油坑第一期成果地圖 
    
-|種類|原始資料|已校正|
-|:---:|:---:|:---:|
-|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
-|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+ ![大油坑第一期影像成果](./TVG_DataDownload_DYK20220908.jpg)
+
+請點擊下列下載連結下載影像:  
+[大油坑第一期未校正影像]()  
+[大油坑第一期已校正影像]()    
+  
+ *** 
    
 #### 大油坑第二期成果地圖   
     
-|種類|原始資料|已校正|
-|:---:|:---:|:---:|
-|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
-|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+ ![大油坑第二期影像成果](./TVG_DataDownload_DYK20221222.jpg)
+
+請點擊下列下載連結下載影像:  
+[大油坑第二期未校正影像]()  
+[大油坑第二期已校正影像]()    
   
+***
+
 #### 小油坑第一期成果地圖    
    
 |種類|原始資料|已校正|
