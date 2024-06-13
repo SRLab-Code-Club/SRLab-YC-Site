@@ -37,8 +37,8 @@ title: "Download materials"
  ![大油坑第一期影像成果](./TVG_DataDownload_DYK20220908.jpg)
 
 請點擊下列下載連結下載影像:  
-[大油坑第一期未校正影像]()  
-[大油坑第一期已校正影像]()    
+[:material-checkerboard:大油坑第一期未校正影像](https://gofile.me/6TNSM/SgOX4g29l)  
+[:material-checkerboard:大油坑第一期已校正影像](https://gofile.me/6TNSM/QYSILGu3d)    
   
  *** 
    
@@ -47,31 +47,32 @@ title: "Download materials"
  ![大油坑第二期影像成果](./TVG_DataDownload_DYK20221222.jpg)
 
 請點擊下列下載連結下載影像:  
-[大油坑第二期未校正影像]()  
-[大油坑第二期已校正影像]()    
+[:material-checkerboard:大油坑第二期未校正影像](https://gofile.me/6TNSM/XKZw8kWRF)  
+[:material-checkerboard:大油坑第二期已校正影像](https://gofile.me/6TNSM/zmHGkt3DL)    
   
 ***
 
 #### 小油坑第一期成果地圖    
    
-|種類|原始資料|已校正|
-|:---:|:---:|:---:|
-|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
-|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+ ![小油坑第一期影像成果](./TVG_DataDownload_SYK20210114.jpg)
+
+請點擊下列下載連結下載影像:  
+[:material-checkerboard:小油坑第一期未校正影像](https://gofile.me/6TNSM/8PSB0fyDC)   
+[:material-checkerboard:小油坑第一期已校正影像](https://gofile.me/6TNSM/UnWldCt6r)   
   
 #### 小油坑第二期成果地圖    
    
-|種類|原始資料|已校正|
-|:---:|:---:|:---:|
-|完整溫度範圍|[:material-checkerboard:]()|[:material-checkerboard:]()|
-|強化熱點地圖|[:material-checkerboard:]()|[:material-checkerboard:]()|
+ ![小油坑第二期影像成果](./TVG_DataDownload_SYK20230210.jpg)
+
+請點擊下列下載連結下載影像:  
+[:material-checkerboard:小油坑第二期未校正影像](https://gofile.me/6TNSM/Ju7CWQ6vK)   
+[:material-checkerboard:小油坑第二期已校正影像](https://gofile.me/6TNSM/q9ObJ8cM8)  
 
 
 說明：  
 原始溫度係儀器輸出之原始溫度，使用發射率（emmisivity）「0.95」進行溫度推算。  
 校正溫度系以發射率「0.895」進行溫度[校正](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law)後結果。  
   
-原始檔（溫度之 GeoTiff 檔）請[聯絡計畫主持人並來函申請](mailto:yuchang@earth.sinica.edu.tw)。  
   
 ***  
 
