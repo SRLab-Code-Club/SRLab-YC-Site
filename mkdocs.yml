@@ -73,10 +73,4 @@ nav:
     - Group Members: GM.md
     - Publications : PubList.md
     - Outreach: outreach/index.md
-    - TVG Achievement: 
-      - "TVG Project: Overview": TVG_achievement/index.md
-      - "TVG: Structure Delineation": TVG_achievement/TVG_StructureDelineation.md
-      - "TVG: UAV LiDAR Mapping": TVG_achievement/TVG_UAV_LiDAR.md
-      - "TVG: UAV Thermal Mapping": TVG_achievement/TVG_UAV_Thermal.md
-      - "TVG: Long-term Surface Temperature Monitoring": TVG_achievement/TVG_LongtermObservation.md
-      - "TVG: Download materials": TVG_achievement/TVG_DataDownload.md
+    
