@@ -1,7 +1,7 @@
 ---
 title: "Long-term observation of land surface temperature and volcanic activity"
 ---
-# 長期地表溫度與火山活動觀測
+# 衛星地表溫度長期變化與火山活動之關連性
   
 本研究為研究大屯火山群的長期活動，分析以衛星遙測所得之地表溫度（Land Surface Temperature，LST）約 40 年的時間序列，以及火山活動造成的地震活動約 30 年的時間序列。地表溫度時間序列顯示地表下的熱源尚未達到熱平衡而有起伏，且地表溫度與地震的時間序列呈現正相關，反應了活躍的火山活動證據。
   

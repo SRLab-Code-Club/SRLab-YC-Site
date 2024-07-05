@@ -14,7 +14,7 @@ toc: True
   
 ***  
   
-## 火山地形線型判釋  
+## 火山光達地形線型判釋  
 [<img src="./TVG_Delineation_Result.jpg">](./TVG_StructureDelineation.md)  
 [更多研究成果](./TVG_StructureDelineation.md)
 ***
@@ -26,13 +26,13 @@ toc: True
   
 ***
 
-## 無人機載熱像儀地表溫度拍攝  
+## 無人機載熱像儀地表溫度拍攝：大油坑及小油坑  
 [<img src="./TML-SYK-1stMosic.jpg">](./TVG_UAV_Thermal.md)  
 [更多研究成果](./TVG_UAV_Thermal.md)
   
 ***
 
-## 長期地表溫度變化與火山活動之關連性  
+## 衛星地表溫度長期變化與火山活動之關連性  
 [<img src="./LTM_Cover.jpg">](./TVG_LongtermObservation.md)  
 [更多研究成果](./TVG_LongtermObservation.md)  
   
