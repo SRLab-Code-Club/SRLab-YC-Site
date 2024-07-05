@@ -1,5 +1,5 @@
 # SRLab-YC-Site 專案描述
-本專案為詹老師研究室新版網頁的專案，目標是建立一個易於維護與更新的網頁系統。  
+本專案為詹老師研究室新版網頁的專案，目標是建立一個易於維護與更新的網頁系統。[線上預覽](https://srlab-code-club.github.io/SRLab-YC-Site/)。  
 ## 專案主導  
 [@lcabon258](https://github.com/lcabon258)  
 # 網站內容  
