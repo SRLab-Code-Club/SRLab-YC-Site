@@ -3,7 +3,8 @@ title: "PUBLICATION LIST"
 ---  
 ## Peer-reviewed papers (SCI)
   
-### 2021-2023:
+### 2021-2024:
+1. [:material-link-box-outline:](https://doi.org/10.1080/19475705.2024.2363428) Kumar, G., **Chan\*, Y. C.**, Sun, C. W., & Chen, C. T. (2024). Decadal-scale assessment of sediment denudation rates in the Zhoukou River Basin, Taiwan: insights from improved DEMs of differencing based on spectral analysis. Geomatics, Natural Hazards and Risk, 15(1). https://doi.org/10.1080/19475705.2024.2363428. \[\*corresponding author\]     
 1. [:material-link-box-outline:](https://doi.org/10.1016/j.enggeo.2023.107339) Lu\*, C.-Y., **Chan\*, Y.-C.**, Hu, J.-C., Chiu, C.-Y., Chu, C.-R., Tseng, C.-H., Chang, C.-H., 2023, "Velocity distribution and movement of multiple slow-moving landslides characterized by an optimized MTInSAR workflow", Engineering Geology, 2023, 327, 107339.[*corresponding author]
 1. [:material-link-box-outline:](https://doi.org/10.1038/s41598-023-47048-1) Chan, H.-P., **Chan, Y.-C.**, Sun, C.-W., 2023, Thermal pattern of Tatun volcanic system by satellite-observed temperatures and its correlation with earthquake magnitudes. Scientific Reports, 13:19568.
 1. [:material-link-box-outline:](https://doi.org/10.1088/2515-7620/ace760) Chan, H.-P., **Chan, Y.-C.**, 2023, Thermal pattern at kueishantao (KST) volcano of Taiwan from satellite-observed temperatures and its implication. Environmental Research Communications, 5, 075013.  
