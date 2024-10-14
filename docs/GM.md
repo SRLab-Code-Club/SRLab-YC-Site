@@ -12,8 +12,9 @@ title: "Group Members"
 ### Graduate Students  
 |Name|Degrees|School|  
 |---|---|---|  
-|Gopal Kumar|Ph.D. Candidate|Earth System Sciences, TIGP, Academia Sinica| 
-|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
+|[Gopal Kumar](https://www.earth.sinica.edu.tw/member/detail/457)|Ph.D. Candidate|Earth System Sciences, TIGP, Academia Sinica| 
+|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University|  
+|Yu-Chen Hsu|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica|  
 |Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
 |Chia-Yu Chang|M.Sc. Student|Department of Geosciences, National Taiwan University| 
@@ -53,6 +54,7 @@ title: "Group Members"
   
 |Year|Topic|People|
 |---|---|---|
+|2024|數值高程資料之處理與3D構造地質製圖應用|戴可風（臺灣大學地質科學系二年級）<br>鄒志揚（臺灣大學地理系二年級）|  
 |2023|高精度UAV LiDAR數值資料之處理與3D地質製圖分析應用|陳冠羽（臺灣大學地理系二年級）<br>林昰瑞（臺灣大學地質科學系二年級）<br>黃聖翳（臺灣大學地質科學系二年級）|
 |2022|利用 UAV LiDAR 獲取次公尺級數值地形並解析工程尺度之地質構造|李維哲（毫灣大學地質科學系二年級）<br>詹子弘（中興大學水土保持學系二年級）<br>王奕婷（成功大學測量及空問資訊系四年級）|
 |2021|（線上教學）|陳允平（台灣大學地質系二年級）<br>魏婉庭（台灣大學地質系二年級）<br>廖冠志（台灣大學地理系三年級）|
