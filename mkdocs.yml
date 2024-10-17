@@ -39,7 +39,7 @@ theme:
         - navigation.top
     custom_dir: ./overrides
 # 頁尾
-copyright: Copyright &copy; 2002 - 2023 Structural Geology and Remote Sensing Laboratory, Institute of Earth Sciences, Academia Sinica
+copyright: Copyright &copy; 2002 - 2024 Structural Geology and Remote Sensing Laboratory, Institute of Earth Sciences, Academia Sinica
 
 # Blog for abstracts
 plugins:
@@ -73,3 +73,4 @@ nav:
     - Group Members: GM.md
     - Publications : PubList.md
     - Outreach: outreach/index.md
+    
