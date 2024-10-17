@@ -94,6 +94,7 @@ title: "PUBLICATION LIST"
 11. [:material-link-box-outline:](https://www.grb.gov.tw/search/planDetail?id=1352402) **Chan, Y.-C.**, et al., 2007. Acquisition of high-resolution digital elevation model using airborne LiDAR technique and its application to tectonic geomorphology in the Taipei metropolitan area. (3/3)[^9] Open-File Report, 150 pages, Published by the Central Geological Survey in Taiwan. (in Chinese)
 12. [:material-link-box-outline:](https://www.grb.gov.tw/search/planDetail?id=1385574) **Chan, Y.-C.**, et al., 2006. Acquisition of high-resolution digital elevation model using airborne LiDAR technique and its application to tectonic geomorphology in the Taipei metropolitan area. (2/3)[^10] Open-File Report, 188 pages, Published by the Central Geological Survey in Taiwan. (in Chinese)
 13. [:material-link-box-outline:](https://www.grb.gov.tw/search/planDetail?id=1385599) **Chan, Y.-C.**, et al., 2005. Acquisition of high-resolution digital elevation model using airborne LiDAR technique and its application to tectonic geomorphology in the Taipei metropolitan area. (1/3)[^11] Open-File Report, 143 pages, Published by the Central Geological Survey in Taiwan. (in Chinese)
+14. [:material-link-box-outline:](./PubList.md) **Chan, Y.-C.**, et al., 2024. Thermal Mapping Project for Tatun Volcano Group (TVG).
 
 ## Conference Activity
   
