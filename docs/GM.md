@@ -12,16 +12,17 @@ title: "Group Members"
 ### Graduate Students  
 |Name|Degrees|School|  
 |---|---|---|  
-|Gopal Kumar|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
-|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
-|Yu-Chen Hsu|M.Sc. Student|Earth Sciences, National Central University|
+|[Gopal Kumar](https://www.earth.sinica.edu.tw/member/detail/457)|Ph.D. Candidate|Earth System Sciences, TIGP, Academia Sinica| 
+|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University|  
+|Yu-Chen Hsu|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica|  
 |Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
-  
+|Chia-Yu Chang|M.Sc. Student|Department of Geosciences, National Taiwan University| 
+
+
 ### Research Assistants
 |Name|Education|Field|
 |---|---|---|
-|Su-Ching Chou|M.Sc., National Taiwan University|Geology, Sedimentology, Basin Analysis|
 |Chiu-Yeu Lo|M.Sc., National Central University|Remote Sensing, Image Processing, Drone Pilot, LiDAR Post-processing|
    
 ## Former Members  
@@ -30,8 +31,9 @@ title: "Group Members"
   
 |Name|Degree|Year of Graduation|School|Thesis|  
 |---|---|---|---|---|  
+|Yu-Chen Hsu|M.Sc.|2024|Earth Sciences, National Central University|[Using LiDAR‑derived Digital Elevation Model for interpreting and analyzing regional geology and structure: the case of northern Coastal Range](http://ir.lib.ncu.edu.tw:88/thesis/view_etd.asp?URN=110622013)|  
 |Ting-Yu Pai|M.Sc.|2023|Geosciences, National Taiwan University|[Using airborne LiDAR DEM for interpreting geologic structures in the southern Coastal Range](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/87179)|
-|Chiao-Yin Lu|Ph.D.|2022|Geosciences, National Taiwan University|[Applying the multitemporal SAR interferometry(MTInSAR) technique for detecting long period and potential seasonal surface displacement]()|
+|Chiao-Yin Lu|Ph.D.|2022|Geosciences, National Taiwan University|[Applying the multitemporal SAR interferometry(MTInSAR) technique for detecting long period and potential seasonal surface displacement](https://www.airitilibrary.com/Common/Click_DOI?DOI=10.6342/NTU202204061)|
 |Vu Anh Dao|M.Sc.|2022|Earth Sciences, National Central University|[Active faulting in the north Central Vietnam illuminated by geomorphic analysis](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi/ccd=GrW0wI/record?r1=1&h1=1)|
 |Dinh Thi Hue|Ph.D.|2021|Earth System Sciences, TIGP, Academia Sinica|[Deformation patterns and potential active movements of the Fansipan and Tule mountain ranges, northern Vietnam](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC104690604%22.&searchmode=basic)|
 |Po-Lien Chao|M.Sc.|2021|Geosciences, National Taiwan University|[Using airborne LiDAR-derived DEM to improve the geologic map in igneous and sedimentary rock terrains: a case study of the Yuli map in the Coastal Range](https://doi.org/10.6342/NTU202101583)|
@@ -52,6 +54,7 @@ title: "Group Members"
   
 |Year|Topic|People|
 |---|---|---|
+|2024|數值高程資料之處理與3D構造地質製圖應用|戴可風（臺灣大學地質科學系二年級）<br>鄒志揚（臺灣大學地理系二年級）|  
 |2023|高精度UAV LiDAR數值資料之處理與3D地質製圖分析應用|陳冠羽（臺灣大學地理系二年級）<br>林昰瑞（臺灣大學地質科學系二年級）<br>黃聖翳（臺灣大學地質科學系二年級）|
 |2022|利用 UAV LiDAR 獲取次公尺級數值地形並解析工程尺度之地質構造|李維哲（毫灣大學地質科學系二年級）<br>詹子弘（中興大學水土保持學系二年級）<br>王奕婷（成功大學測量及空問資訊系四年級）|
 |2021|（線上教學）|陳允平（台灣大學地質系二年級）<br>魏婉庭（台灣大學地質系二年級）<br>廖冠志（台灣大學地理系三年級）|
@@ -80,6 +83,7 @@ title: "Group Members"
     
 |Name|Education|Current Position|  
 |---|---|---|  
+|Su-Ching Chou|M.Sc., National Taiwan University| - |
 |Jin-Ting Jiang|M.Sc., National Taipei University of Technology|TSMC|
 |Sean Kuanshiang Chen|M.Sc., National Taiwan University|NTU|
 |Chung Huang|M.Sc., National Taiwan University|Taipower|
