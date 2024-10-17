@@ -5,6 +5,8 @@ title: "Long-term observation of land surface temperature and volcanic activity"
   
 本研究為研究大屯火山群的長期活動，分析以衛星遙測所得之地表溫度（Land Surface Temperature，LST）約 40 年的時間序列，以及火山活動造成的地震活動約 30 年的時間序列。地表溫度時間序列顯示地表下的熱源尚未達到熱平衡而有起伏，且地表溫度與地震的時間序列呈現正相關，反應了活躍的火山活動證據。
   
+本項研究成果獲得 NASA 專文介紹： [:fontawesome-solid-pen-fancy: Could Land Surface Temperature Help Predict Earthquakes?](https://landsat.gsfc.nasa.gov/article/land-surface-temperature-predict-earthquakes/)。
+
 詳細內容請參見已發表的文章： [:material-link-box-outline:](https://doi.org/10.1038/s41598-023-47048-1) Chan, H.-P., **Chan, Y.-C.**, Sun, C.-W., 2023, Thermal pattern of Tatun volcanic system by satellite-observed temperatures and its correlation with earthquake magnitudes. Scientific Reports, 13:19568.  
   
 ## 精選圖片  

@@ -33,9 +33,16 @@ toc: True
 ***
 
 ## 衛星地表溫度長期變化與火山活動之關連性  
-[<img src="./LTM_Cover.jpg">](./TVG_LongtermObservation.md)  
-[更多研究成果](./TVG_LongtermObservation.md)  
-  
+<div class="grid cards" markdown>
+
+- **研究成果介紹**      
+  [<img src="./LTM_Cover.jpg">](./TVG_LongtermObservation.md)  
+  [更多研究成果](./TVG_LongtermObservation.md)   
+- **NASA 專文介紹**  
+  [<img src="./LTM_NASA_Tatun.jpg">](https://landsat.gsfc.nasa.gov/article/land-surface-temperature-predict-earthquakes/)   
+  [:fontawesome-solid-pen-fancy: Could Land Surface Temperature Help Predict Earthquakes?](https://landsat.gsfc.nasa.gov/article/land-surface-temperature-predict-earthquakes/)
+</div>
+
 ***  
   
 ## 資料下載  
