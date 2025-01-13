@@ -53,7 +53,7 @@ B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988
 * Guest Editor, “Remote Sensing in Geology”, Remote Sensing (MDPI), 2015 
 * Member, Panel of Earth Sciences, Ministry of Science and Technology, 2012 -- 2014
 * Member, Panel of Applied Science and Technology for Disaster Reduction Program, Executive Yuan, R.O.C., 2014 -- 2016
-* Member, Panel of International Collaboration in Natural Sciences, Ministry of Science and Technology, 2015 -- present
+* Member, Panel of International Collaboration in Natural Sciences, Ministry of Science and Technology, 2015 -- 2017
 * Member, Board of Directors, Geological Society, R.O.C. (Taiwan), 2013 -- 2015
 * Invited Speaker, AOGS Annual Meeting, Singapore, 2009
 * A Highlight of Significant Research Achievements of Academia Sinica, 2008
