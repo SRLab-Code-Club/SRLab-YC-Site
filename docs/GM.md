@@ -14,7 +14,7 @@ title: "Group Members"
 |[Gopal Kumar](https://www.earth.sinica.edu.tw/member/detail/457)|Ph.D. Candidate|Earth System Sciences, TIGP, Academia Sinica| 
 |Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University|  
 |Yu-Chen Hsu|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica|  
-|Yun-Pin Chen|M.Sc. Student|Department of Geosciences, National Taiwan University| 
+|Yun-Pin Chen|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 
 |Chia-Yu Chang|M.Sc. Student|Department of Geosciences, National Taiwan University| 
 
@@ -30,6 +30,7 @@ title: "Group Members"
   
 |Name|Degree|Year of Graduation|School|Thesis|  
 |---|---|---|---|---|  
+|Yun-Pin Chen|M.Sc.|2025|Department of Geosciences, National Taiwan University|[LiDAR-Based 3D Foliation Mapping: Implications for Deformational Processes in the Southern Taiwan Orogen](https://doi.org/10.6342/NTU202501805)|  
 |Yu-Chen Hsu|M.Sc.|2024|Earth Sciences, National Central University|[Using LiDAR‑derived Digital Elevation Model for interpreting and analyzing regional geology and structure: the case of northern Coastal Range](http://ir.lib.ncu.edu.tw:88/thesis/view_etd.asp?URN=110622013)|  
 |Ting-Yu Pai|M.Sc.|2023|Geosciences, National Taiwan University|[Using airborne LiDAR DEM for interpreting geologic structures in the southern Coastal Range](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/87179)|
 |Chiao-Yin Lu|Ph.D.|2022|Geosciences, National Taiwan University|[Applying the multitemporal SAR interferometry(MTInSAR) technique for detecting long period and potential seasonal surface displacement](https://www.airitilibrary.com/Common/Click_DOI?DOI=10.6342/NTU202204061)|
