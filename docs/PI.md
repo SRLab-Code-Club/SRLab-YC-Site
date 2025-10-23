@@ -21,11 +21,11 @@ B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988
 * Reseach Fellow/ Deputy Director, IES, Academia Sinica, 2018/1 -- present
 * Professor, Taiwan International Graduate Program (TIGP), Academia Sinica, 2018 -- present
 * Adjunct Professor, National Taiwan University, 2021 -- present
-* Adjunct Professor, National Central University, 2018 – present
 * Principal Investigator, Understanding the Landslide and Erosion Processes, Thematic Program, Academia Sinica, 2019 -- 2021
 * Associate Research Fellow, IES, Academia Sinica, 2009 -- 2017
 * Secretary General, Geological Society, R.O.C. (Taiwan), 2009 -- 2013
 * Associate Professor, Taiwan International Graduate Program (TIGP), Academia Sinica, 2009 – 2017
+* Adjunct Professor, National Central University, 2018 –- 2024
 * Adjunct Associate Professor, National Central University, 2009 -- 2017
 * Principal Investigator, Acquisition of High-resolution Digital Elevation Model using Airborne LiDAR Technique and its Applications, Central Geological Survey, 2005 -- 2011
 * Visiting Scholar, Division of Geological and Planetary Sciences, Caltech, U.S.A., 2005/6
@@ -38,15 +38,16 @@ B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988
 
   
 ## Services/ Honors
-* Chair, Admissions Commitee, Earth System Science, Taiwan International Graduate Program (TIGP), Academia Sinica, 2022 –– present
-* Member, Board of Directors, Chinese Geoscience Union, R.O.C.(Taiwan), 2020 -- present 
-* Member, Journal Publication Committee, Chinese Geoscience Union, R.O.C (Taiwan), 2020 -- present
-* Member, International Affairs Committee, Chinese Geoscience Union, R.O.C (Taiwan), 2020 -- 2022
-* Member, Admissions Committee, Earth System Science, Taiwan International Graduate Program (TIGP), Academia Sinica, 2018 – present
-* Member, Department Review Committee, Department of Earth Sciences, National Cheng Kung University, 2021
-* Chair, Library Coordination Committee, Academia Sinica, 2022
-* Member, Library Coordination Committee, Academia Sinica, 2021 -- present
-* Member, Geologically Sensitive Areas Review Committee, Central Geological Survey, R.O.C (Taiwan), 2019 -- 2021
+* Coordinator, Panel of Earth Sciences (Geology), National Science and Technology Council, R.O.C.(Taiwan), 2025 -- present  
+* Chair, Admissions Commitee, Earth System Science, Taiwan International Graduate Program (TIGP), Academia Sinica, 2022 –– 2025  
+* Member, Board of Directors, Chinese Geoscience Union, R.O.C.(Taiwan), 2020 -- present  
+* Member, Journal Publication Committee, Chinese Geoscience Union, R.O.C (Taiwan), 2020 -- present  
+* Member, International Affairs Committee, Chinese Geoscience Union, R.O.C (Taiwan), 2020 -- 2022  
+* Member, Admissions Committee, Earth System Science, Taiwan International Graduate Program (TIGP), Academia Sinica, 2018 – present  
+* Member, Department Review Committee, Department of Earth Sciences, National Cheng Kung University, 2021  
+* Chair, Library Coordination Committee, Academia Sinica, 2022  
+* Member, Library Coordination Committee, Academia Sinica, 2021 -- 2023  
+* Member, Geologically Sensitive Areas Review Committee, Central Geological Survey, R.O.C (Taiwan), 2019 -- 2021  
 * Advisory Member, Earth Sciences, MOST/NSTC, R.O.C., 2019 –– 2022
 * Lead Session Convener, AGU Fall Meeting, San Francisco, 2009, 2010 and 2011
 * Managing Editor, Terrestrial Atmospheric Oceanic Sciences (TAO), 2012 -- 2015

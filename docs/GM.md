@@ -77,7 +77,7 @@ title: "Group Members"
     
 |Name|Education|Current Position|  
 |----|---------|----------------|  
-|Abhishek Lakhote|Ph.D., Department of Earth and Environmental Science, KSKV Kachchh University, India|Postdoctoral Fellow, NTUCE|
+|Abhishek Lakhote|Ph.D., Department of Earth and Environmental Science, KSKV Kachchh University, India||
 |Chia-Han Tseng|Ph.D., Freie Universitat Berlin, Germany|Chinese Culture University|  
 |Kuang-Yin Lai|Ph.D., National Taiwan University|CPC Corp.|  
   
