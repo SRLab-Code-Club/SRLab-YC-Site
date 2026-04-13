@@ -3,8 +3,9 @@ title: "PUBLICATION LIST"
 ---  
 ## Peer-reviewed papers (SCI)
   
-### 2021-2025:
+### 2021-2025:  
 1. [:material-link-box-outline:](https://doi.org/10.1007/s10346-024-02453-z) Lakhote, A., **Chan\*, Y.-C.**, Lu, C.-Y., Kumar, G., Sun, C.-W., 2025, Monitoring slow-moving deep-seated landslide using PSI technique: a case study of a potential sliding slope from southern Taiwan. Landslides. https://doi.org/10.1007/s10346-024-02453-z. \[\*corresponding author\]  
+1. [:material-link-box-outline:](https://doi.org/10.1016/j.srs.2025.100354) Lu\*, C.-Y., **Chan\*, Y.-C.**, Chu, C.-R., Liu, C.-H., Lee, S.-C., Hsieh, Y.-C., Hu, J.-C., Chang, C.-H., 2025, Satellite-derived seasonal fluctuations in surface displacement and soil moisture: Implications for landslide activity. Science of Remote Sensing, Elsevier. https://doi.org/10.1016/j.srs.2025.100354 \[\*corresponding author\]  
 1. [:material-link-box-outline:](https://doi.org/10.1186/s40562-025-00410-9) Dinh, T.-H., Chen, C.-T. & **Chan, Y.-C.**, 2025, Geomorphic constraints on differential surface uplift across the Dien Bien Phu Fault, northwestern Vietnam, and its implications on crustal dynamics in the southeastern Tibetan Plateau. Geosci. Lett. 12, 38. https://doi.org/10.1186/s40562-025-00410-9  
 2. [:material-link-box-outline:](https://doi.org/10.1080/19475705.2024.2363428) Kumar, G., **Chan\*, Y.-C.**, Sun, C.-W., & Chen, C.-T., 2024, Decadal-scale assessment of sediment denudation rates in the Zhoukou River Basin, Taiwan: insights from improved DEMs of differencing based on spectral analysis. Geomatics, Natural Hazards and Risk, 15(1). https://doi.org/10.1080/19475705.2024.2363428. \[\*corresponding author\]     
 3. [:material-link-box-outline:](https://doi.org/10.1016/j.enggeo.2023.107339) Lu\*, C.-Y., **Chan\*, Y.-C.**, Hu, J.-C., Chiu, C.-Y., Chu, C.-R., Tseng, C.-H., Chang, C.-H., 2023, "Velocity distribution and movement of multiple slow-moving landslides characterized by an optimized MTInSAR workflow", Engineering Geology, 2023, 327, 107339.[*corresponding author]

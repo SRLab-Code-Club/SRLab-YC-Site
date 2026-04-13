@@ -12,7 +12,7 @@ title: "Group Members"
 |Name|Degrees|School|  
 |---|---|---|  
 |[Gopal Kumar](https://www.earth.sinica.edu.tw/member/detail/457)|Ph.D. Candidate|Earth System Sciences, TIGP, Academia Sinica| 
-|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University|  
+|Cheng-Wei Sun|Ph.D. Candidate|Department of Geosciences, National Taiwan University|  
 |Yu-Chen Hsu|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica|  
 |Yun-Pin Chen|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
 |Wan-Ting Wei|M.Sc. Student|Department of Earth Sciences, National Taiwan Normal University| 

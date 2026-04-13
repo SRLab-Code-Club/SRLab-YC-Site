@@ -2,9 +2,9 @@
 title: SRLab, IESAS
 ---
 
-**詹瑜璋博士  研究員兼副所長**  
+**詹瑜璋博士  研究員**  
 **中央研究院地球科學研究所 構造地質與遙測研究室**  
-Yu-Chang Chan, PhD, Research Fellow/ Deputy Director  
+Yu-Chang Chan, PhD, Research Fellow  
 Structural Geology and Remote Sensing Laboratory  
 Institute of Earth Sciences, Academia Sinica, TAIWAN  
 

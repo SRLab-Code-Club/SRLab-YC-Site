@@ -3,7 +3,7 @@ title:  "Principal Investigator"
 ---
 
 **Yu-Chang Chan, Ph.D.**  
-Research Fellow/ Deputy Director   
+Research Fellow   
 
 ## [Research Topics](Topics.md)  
 UAV and LiDAR Data Processing and Applications  
@@ -18,8 +18,9 @@ M.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1990
 B.S., Geology, National Taiwan University, R.O.C. (Taiwan), 1988  
   
 ## Professional Experience
-* Reseach Fellow/ Deputy Director, IES, Academia Sinica, 2018/1 -- present
+* Reseach Fellow, IES, Academia Sinica, 2018/1 -- present  
 * Professor, Taiwan International Graduate Program (TIGP), Academia Sinica, 2018 -- present
+* Deputy Director, IES, Academia Sinica, 2018/1 -- 2026/4  
 * Adjunct Professor, National Taiwan University, 2021 -- present
 * Principal Investigator, Understanding the Landslide and Erosion Processes, Thematic Program, Academia Sinica, 2019 -- 2021
 * Associate Research Fellow, IES, Academia Sinica, 2009 -- 2017
