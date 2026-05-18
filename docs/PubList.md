@@ -3,7 +3,8 @@ title: "PUBLICATION LIST"
 ---  
 ## Peer-reviewed papers (SCI)
   
-### 2021-2025:  
+### 2021-2026:
+1. [:material-link-box-outline:](https://doi.org/10.1029/2025JF008720) Kumar, G., **Chan\*, Y.-C.**, Sun, C.-W., Chen, C.-T., 2026, Decadal Erosion rates and sediment buffering identified through enhanced DEM differencing using underutilized global satellite DEMs. Journal of Geophysical Research: Earth Surface, 131, e2025JF008720. https://doi.org/10.1029/2025JF008720 \[\*corresponding author\]   
 1. [:material-link-box-outline:](https://doi.org/10.1007/s10346-024-02453-z) Lakhote, A., **Chan\*, Y.-C.**, Lu, C.-Y., Kumar, G., Sun, C.-W., 2025, Monitoring slow-moving deep-seated landslide using PSI technique: a case study of a potential sliding slope from southern Taiwan. Landslides. https://doi.org/10.1007/s10346-024-02453-z. \[\*corresponding author\]  
 1. [:material-link-box-outline:](https://doi.org/10.1016/j.srs.2025.100354) Lu\*, C.-Y., **Chan\*, Y.-C.**, Chu, C.-R., Liu, C.-H., Lee, S.-C., Hsieh, Y.-C., Hu, J.-C., Chang, C.-H., 2025, Satellite-derived seasonal fluctuations in surface displacement and soil moisture: Implications for landslide activity. Science of Remote Sensing, Elsevier. https://doi.org/10.1016/j.srs.2025.100354 \[\*corresponding author\]  
 1. [:material-link-box-outline:](https://doi.org/10.1186/s40562-025-00410-9) Dinh, T.-H., Chen, C.-T. & **Chan, Y.-C.**, 2025, Geomorphic constraints on differential surface uplift across the Dien Bien Phu Fault, northwestern Vietnam, and its implications on crustal dynamics in the southeastern Tibetan Plateau. Geosci. Lett. 12, 38. https://doi.org/10.1186/s40562-025-00410-9  
