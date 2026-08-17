@@ -64,6 +64,9 @@ markdown_extensions:
           - overrides/.icons
   - md_in_html
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 # ----- Nav list -----
 nav:
