@@ -1,8 +1,8 @@
 ---
 title: SRLab, IESAS
 ---
-!!! info
-    We moved to a new location! Please update your bookmarks to our new site at [https://srlab.earth.sinica.edu.tw](https://srlab.earth.sinica.edu.tw).
+!!! info "We have moved to [https://srlab.earth.sinica.edu.tw](https://srlab.earth.sinica.edu.tw)."
+    We have moved to [https://srlab.earth.sinica.edu.tw](https://srlab.earth.sinica.edu.tw). Please update your bookmarks.
   
   
 **詹瑜璋博士  研究員**  
